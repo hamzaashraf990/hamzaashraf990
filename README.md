@@ -20,6 +20,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 
 Let's Connect! 🌐
 Feel free to connect with me on Social Media for collaborations, discussions, or just to say hi! I'm always excited to meet fellow tech enthusiasts and explore new opportunities.
-Linkedin: https://www.linkedin.com/in/haofficial/
-Instagram: https://www.instagram.com/hamzaashraf663/
-Facebook: https://www.facebook.com/profile.php?id=100004927155247
+1) Linkedin: https://www.linkedin.com/in/haofficial/
+2) Instagram: https://www.instagram.com/hamzaashraf663/
+3) Facebook: https://www.facebook.com/profile.php?id=100004927155247
